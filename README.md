@@ -4,7 +4,13 @@ This is an texture upscaling project for Monster Hunter Freedom Unite ULUS10391 
 
 ## Description
 
-I'm a README noob so please excus the mess.   For the most part, this is pretty fresh build.  About 95% of the textures in this project are straight upscales using different models in [Cupscale](https://github.com/n00mkrad/cupscale).  The other 5% of textures were replacements of my own mixed in with some really good UI, area and environment textures from [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) and [MHFU-HD](https://github.com/grimmtusk/MHFU-HD), really just an utter fantastic job!!!  The original owner of those textures went far beyond basic upscaling but I wanted a look closer resembling the original game, so I used basic texture upscaling tools for most areas and used others from MHFURemaster-VakSan to make it look nicer.
+I'm a README noob so please excus the mess.  For the most part, this is pretty fresh build.  About 95% of the textures in this project are straight upscales using different models in [Cupscale](https://github.com/n00mkrad/cupscale).  The other 5% of textures were replacements of my own mixed in with some really good UI, area and environment textures from [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) and [MHFU-HD](https://github.com/grimmtusk/MHFU-HD), really just an utter fantastic job!!!  The original owner of those textures went far beyond basic upscaling but I wanted a look closer resembling the original game, so I used basic texture upscaling tools for most areas and used others from MHFURemaster-VakSan to make it look nicer.
+
+## Download Size and Performance
+
+This is a pretty big retexture project.  As of right now the download size is 1.82GB. That's how much space it will take up in your TEXTURES folder.
+
+On desktop I use a Surface Book 3 and it performs without issue.  On Android, I run a Pixel 5 and get about a 2-3 second black screen between areas while the new textures load, as they load on the fly.  You get used to it, mileage may vary.
 
 ## Asset Size
 
