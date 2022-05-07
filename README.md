@@ -4,7 +4,7 @@ This is an texture upscaling project for Monster Hunter Freedom Unite ULUS10391 
 
 ## Description
 
-I'm a README noob so please excus the mess.  For the most part, this is pretty fresh build.  About 95% of the textures in this project are straight upscales using different models in [Cupscale](https://github.com/n00mkrad/cupscale).  The other 5% of textures were replacements of my own mixed in with some really good UI, area and environment textures from [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) and [MHFU-HD](https://github.com/grimmtusk/MHFU-HD), really just an utter fantastic job!!!  The original owner of those textures went far beyond basic upscaling but I wanted a look closer resembling the original game, so I used basic texture upscaling tools for most areas and used others from MHFURemaster-VakSan to make it look nicer.
+I'm a README noob so please excuse the mess.  For the most part, this is pretty fresh build.  About 95% of the textures in this project are straight upscales using different models in [Cupscale](https://github.com/n00mkrad/cupscale).  The other 5% of textures were replacements of my own mixed in with some really good UI, area and environment textures from [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) and [MHFU-HD](https://github.com/grimmtusk/MHFU-HD), really just an utter fantastic job!!!  The original owner of those textures went far beyond basic upscaling but I wanted a look closer resembling the original game, so I used basic texture upscaling tools for most areas and used others from MHFURemaster-VakSan to make it look nicer.
 
 ## Download Size and Performance
 
