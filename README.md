@@ -6,11 +6,15 @@ This is an texture upscaling project for Monster Hunter Freedom Unite ULUS10391 
 
 I'm a README noob so please excuse the mess.  For the most part, this is pretty fresh build.  About 95% of the textures in this project are straight upscales using different models in [Cupscale](https://github.com/n00mkrad/cupscale).  The other 5% of textures were replacements of my own mixed in with some really good UI, area and environment textures from [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) and [MHFU-HD](https://github.com/grimmtusk/MHFU-HD), really just an utter fantastic job!!!  The original owner of those textures went far beyond basic upscaling but I wanted a look closer resembling the original game, so I used basic texture upscaling tools for most areas and used others from MHFURemaster-VakSan to make it look nicer.
 
+## Versions
+
+* v2: 7/1/2021 - Project completed as female greatsword user.  All areas and monsters have been retextured.  All female armor and greatsword weapons have been retextured.  Check progress in the progress section.
+
+* v1: 5/5/2021 - Initial Commit
+
 ## Download Size and Performance
 
-This is a pretty big retexture project.  As of right now the download size is 1.82GB. That's how much space it will take up in your TEXTURES folder.
-
-On desktop I use a Surface Book 3 and it performs without issue.  On Android, I run a Pixel 5 and get about a 2-3 second black screen between areas while the new textures load, as they load on the fly.  You get used to it, mileage may vary.
+This is a pretty big retexture project.  The current size is 1.14GB.  This is down from 1.82GB, and while I added a bunch more textures, I ran all textures through a PNG optimizer saving well over 1/2 the space while still maintaining great quality. That's how much space it will take up in your TEXTURES folder.
 
 ## Asset Size
 
@@ -18,14 +22,14 @@ Armor, Weapons, Characters and Monsters are all upscaled at 8X original size.  A
 
 ## Progress
 
-I am HR6 so I haven't been able to reach the HR7 and higher G-Ranked monsters to dump their textures, but I used the cheats on a secondary game and unlocked as much as I could. I tried to purchase and upgrade everything I could, but some items require items that not available in an all-items cheat. Here are my current estimates on where I think the progress is:
+I finally unlocked everything at HR9.  Here are my current estimates on where I think the progress is:
 
 * UI: 100% of meaningful elements.  Also replaced PS buttons with X-Box buttons.
-* Armor: 95% Female, 85% Male ...these took a VERY long time to do
-* Weapons: 95% Female, 85% Male
+* Armor: 100% Female, 85% Male ...these took a VERY long time to do
+* Weapons: 100% Greatsword, 95% Other Weapons
 * Areas: 100%, this includes the "old" versions of levels, ei: "old desert"
-* Characters: 100%, I believe I ran through every possible combination of characters during the creation process
-* Monsters: 95%, from what I've seen from the other repository, I've got nearly all but a few remaining
+* Characters: 100%
+* Monsters: 100% (now using) [MHFURemaster-VakSan](https://github.com/Klara-nihk/MHFURemaster-VakSan) far superior monster textures.
 
 Again, this is all an estimate but seems to be in line with where I am in the game.
 
